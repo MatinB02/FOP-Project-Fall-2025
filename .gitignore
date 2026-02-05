@@ -1,0 +1,26 @@
+# LIBS
+_deps/
+
+# BUILD FILES
+build/
+bin/
+
+# CMAKE FILES
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# IDE & LSP FILES
+.idea/
+.vs/
+.vs-code/
+.vscode/
+.ccls-cache/
+
+# DOXYGEN FILES
+docs/
+Doxyfile
+
+# ZONE.IDENTIFIER FILES
+**/*Zone.Identifier**
